@@ -6,5 +6,5 @@
 - gRPC
 - GraphQL
 ## infra
--Docker   
+- Docker   
   ( Docker Compose)
